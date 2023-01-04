@@ -1,0 +1,15 @@
+/Users/ana-kazarina/Desktop/C#_HW_sem2/ex_10/bin/Debug/net7.0/ex_10
+/Users/ana-kazarina/Desktop/C#_HW_sem2/ex_10/bin/Debug/net7.0/ex_10.deps.json
+/Users/ana-kazarina/Desktop/C#_HW_sem2/ex_10/bin/Debug/net7.0/ex_10.runtimeconfig.json
+/Users/ana-kazarina/Desktop/C#_HW_sem2/ex_10/bin/Debug/net7.0/ex_10.dll
+/Users/ana-kazarina/Desktop/C#_HW_sem2/ex_10/bin/Debug/net7.0/ex_10.pdb
+/Users/ana-kazarina/Desktop/C#_HW_sem2/ex_10/obj/Debug/net7.0/ex_10.csproj.AssemblyReference.cache
+/Users/ana-kazarina/Desktop/C#_HW_sem2/ex_10/obj/Debug/net7.0/ex_10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ana-kazarina/Desktop/C#_HW_sem2/ex_10/obj/Debug/net7.0/ex_10.AssemblyInfoInputs.cache
+/Users/ana-kazarina/Desktop/C#_HW_sem2/ex_10/obj/Debug/net7.0/ex_10.AssemblyInfo.cs
+/Users/ana-kazarina/Desktop/C#_HW_sem2/ex_10/obj/Debug/net7.0/ex_10.csproj.CoreCompileInputs.cache
+/Users/ana-kazarina/Desktop/C#_HW_sem2/ex_10/obj/Debug/net7.0/ex_10.dll
+/Users/ana-kazarina/Desktop/C#_HW_sem2/ex_10/obj/Debug/net7.0/refint/ex_10.dll
+/Users/ana-kazarina/Desktop/C#_HW_sem2/ex_10/obj/Debug/net7.0/ex_10.pdb
+/Users/ana-kazarina/Desktop/C#_HW_sem2/ex_10/obj/Debug/net7.0/ex_10.genruntimeconfig.cache
+/Users/ana-kazarina/Desktop/C#_HW_sem2/ex_10/obj/Debug/net7.0/ref/ex_10.dll
